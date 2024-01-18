@@ -17,8 +17,8 @@ email@email.com
 - Backend
 [Andre Maciel](https://www.linkedin.com/in/israel-gomes-04407718b/)
 - Infra
-[Andre Maciel](https://www.linkedin.com/in/israel-gomes-04407718b/) and 
-[Samuel Xavier](https://www.linkedin.com/in/samuel-xavier-melo/)
+[Samuel Xavier](https://www.linkedin.com/in/samuel-xavier-melo/) and 
+[Andre Maciel](https://www.linkedin.com/in/israel-gomes-04407718b/) and
 
 
 > Providers supported
