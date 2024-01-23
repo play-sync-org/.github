@@ -8,7 +8,11 @@ Play Sync is a playlists converter to help everyone.
 
 > Contact
 
-email@email.com
+playsyncmusic@gmail.com
+
+> Social
+
+[LinkedIn](https://www.linkedin.com/company/101172593)
 
 > Team
 
